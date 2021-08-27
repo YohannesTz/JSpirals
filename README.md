@@ -3,7 +3,9 @@
 A simple Javafx app to generate character spirals based on the x and y given from mouse click even
 
 #Here in action
-
+<p align="center">
+    <img src="/images/JSpirals_in_Action.gif" width="600" height="400" title="Screenshot" alt="screenshot">
+</p>
 # MIT License (MIT)
 
 Copyright (c) Yohannes Tezera
